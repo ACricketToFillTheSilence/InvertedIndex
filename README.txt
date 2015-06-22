@@ -1,0 +1,1 @@
+The following code is to be used to build and use an inverted index. For ease, the pickle function is used to save the inverted index between runs. To run, open the file and run build_list() on a JSON file similar to the Shakespeare file the script is packaged with. Other functions are also written to help analyze the inverted index.
